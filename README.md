@@ -43,4 +43,4 @@ If you meet this error case for "find_package(G2O REQUIRED)", just make the symb
 $ sudo ln -s /usr/local/lib/cmake/g2o/g2oConfig.cmake /usr/local/lib/cmake/g2o/G2OConfig.cmake
 $ sudo ln -s /usr/local/lib/cmake/g2o/g2oConfig.cmake /usr/local/lib/cmake/g2o/g2o-config.cmake
 ```
-
+asdf

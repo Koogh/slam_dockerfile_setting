@@ -5,7 +5,8 @@ xhost +local:docker
 
 # 환경 변수 설정
 CONTAINER_NAME="slam"
-IMAGE_NAME="slam:v1"
+#IMAGE_NAME="slam:v1"
+IMAGE_NAME="slam:v1.1"
 
 HOST_MNT_DIR="/home/${USER}"                    # 호스트의 마운트 디렉토리
 CONTAINER_HOME_DIR="/mnt"
